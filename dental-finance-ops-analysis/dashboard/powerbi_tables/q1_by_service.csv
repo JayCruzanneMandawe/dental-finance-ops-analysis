@@ -1,0 +1,9 @@
+service_category,appointments_booked,chair_hours_booked,revenue,contribution,contribution_margin_pct,contribution_per_chair_hour
+Orthodontic,251.0,167.33,117812.38,56572.3,48.02,338.08
+Cosmetic,206.0,206.0,148195.76,65297.4,44.06,316.98
+Crown & Bridge,229.0,343.5,262600.89,83003.12,31.61,241.64
+Endodontic,189.0,283.5,155289.0,49015.79,31.56,172.9
+Oral Surgery,225.0,168.75,69316.41,20778.91,29.98,123.13
+Emergency,312.0,156.0,58155.26,18834.52,32.39,120.73
+Restorative,689.0,459.33,186851.35,55022.8,29.45,119.79
+Check-up & Clean,1099.0,824.25,150354.03,60446.08,40.2,73.33

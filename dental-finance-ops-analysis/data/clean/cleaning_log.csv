@@ -1,0 +1,18 @@
+step,rows_affected
+Rows in raw file,3264
+Removed TEST CLINIC rows,4
+Removed exact duplicate rows,60
+Removed repeated invoice IDs,0
+Dates that were not in YYYY-MM-DD format (standardised),1120
+Dates that could not be read (should be 0),0
+Clinic names standardised (case/spaces/abbreviations),684
+Blank clinic -> 'Unknown',19
+Service category labels fixed,82
+Funding source labels fixed,68
+Blank funding source -> 'Unknown',96
+Billed fees stored as text with $ and commas,256
+Blank practitioner type filled (most common for that service),64
+Blank chair minutes filled (median for that service),48
+Negative days_to_payment set to blank,8
+'Paid' rows with blank amount_paid -> set equal to billed_fee,15
+Rows in clean file,3200

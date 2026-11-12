@@ -1,0 +1,6 @@
+funding_source,invoices,billed,avg_days_to_pay,outstanding_value,written_off_value,outstanding_pct
+Government Scheme,417,144899.16,49.0,20696.48,2281.4,14.28
+Concession,248,96906.0,37.98,8672.25,4947.75,8.95
+Unknown,80,33890.36,19.05,3232.41,0.0,9.54
+Health Fund,834,378182.56,17.54,32796.16,9330.64,8.67
+Private,991,494697.0,3.76,25666.0,16712.0,5.19

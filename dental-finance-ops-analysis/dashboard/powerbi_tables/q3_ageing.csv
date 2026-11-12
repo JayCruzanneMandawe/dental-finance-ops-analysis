@@ -1,0 +1,5 @@
+age_bucket,invoices,balance_owing
+0-30 days,72,27545.6
+31-60 days,23,5849.8
+61-90 days,14,4914.92
+90+ days,270,75091.67
