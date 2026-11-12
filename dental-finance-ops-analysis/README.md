@@ -131,4 +131,5 @@ dental-finance-ops-analysis/
 └── dashboard/ (dashboard.png, chart1-3.png, powerbi_tables/)
 ```
 
-**Author:** [Your name] · [LinkedIn URL]
+**Author:** Jay Cruzanne Mandawe · www.linkedin.com/in/jay-cruz-mandawe
+
